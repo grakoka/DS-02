@@ -1,0 +1,10 @@
+2025-08-02 12:20:20,379 Creating the report
+2025-08-02 12:20:20,380 Report created successfully
+2025-08-02 12:20:20,380 Preparing to send message: The report has been successfully created
+2025-08-02 12:20:20,562 Response from Telegram: 200 {"ok":true,"result":{"message_id":4,"from":{"id":8379264838,"is_bot":true,"first_name":"grakoka","username":"grakoka_bot"},"chat":{"id":7462957445,"first_name":"lil double","last_name":"noname","username":"l1ng000","type":"private"},"date":1754126419,"text":"The report has been successfully created"}}
+2025-08-02 12:20:20,562 Message sent to Telegram successfully
+2025-08-02 15:52:54,320 Creating the report
+2025-08-02 15:52:54,320 Report created successfully
+2025-08-02 15:52:54,320 Preparing to send message: The report has been successfully created
+2025-08-02 15:52:54,580 Response from Telegram: 200 {"ok":true,"result":{"message_id":5,"from":{"id":8379264838,"is_bot":true,"first_name":"grakoka","username":"grakoka_bot"},"chat":{"id":7462957445,"first_name":"lil double","last_name":"noname","username":"l1ng000","type":"private"},"date":1754139172,"text":"The report has been successfully created"}}
+2025-08-02 15:52:54,580 Message sent to Telegram successfully
